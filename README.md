@@ -3,11 +3,11 @@
 **Description:** A simple Python program that asks users for the city they grew up in and their pet’s name, then generates a fun band name by combining their answers.
 
 **How to Run:**
-Open the script in a Python environment.
-Run the script.
-Enter the city you grew up in.
-Enter your pet’s name.
-See your generated band name!.
+1.Open the script in a Python environment.
+2.Run the script.
+3.Enter the city you grew up in.
+4.Enter your pet’s name.
+5.See your generated band name!.
 
 **Operators and Functions Used
 Functions:**
