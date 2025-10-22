@@ -7,11 +7,11 @@ This project represents one of my early hands-on explorations in Python programm
 
 Through this project, I explored and practiced several core programming fundamentals in Python:
 
-User Input Handling (input()) -	Learned how to collect dynamic user inputs from the command line for real-time interaction.
-String Concatenation  -	Practiced combining and formatting string data to create meaningful output.
-Basic Program Flow - Designed a simple logical sequence of steps (input → process → output).
-Console Interaction	- Improved understanding of how command-line applications communicate with users.
-Code Readability & Simplicity -	Focused on writing clear, self-explanatory code with minimal dependencies.
+1. User Input Handling (input()) -	Learned how to collect dynamic user inputs from the command line for real-time interaction.
+2. String Concatenation  -	Practiced combining and formatting string data to create meaningful output.
+3. Basic Program Flow - Designed a simple logical sequence of steps (input → process → output).
+4. Console Interaction	- Improved understanding of how command-line applications communicate with users.
+5. Code Readability & Simplicity -	Focused on writing clear, self-explanatory code with minimal dependencies.
 
 This foundation helps in building more advanced Python applications involving functions, file handling, and modular design later on.
 
